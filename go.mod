@@ -2,7 +2,7 @@ module github.com/possawang/gateway-service
 
 go 1.18
 
-require github.com/possawang/go-service-lib-common v0.0.2
+require github.com/possawang/go-service-lib-common v0.0.3
 
 require (
 	github.com/felixge/httpsnoop v1.0.1 // indirect
